@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Poppins:wght@700&display=swap');
+
+$font1:'Dancing Script', cursive;
+$font2:'Dancing Script', cursive;
+
+
+
+h1{
+    color: red;
+    font-family: $font1;
+}
+
+p{
+    color: blueviolet;
+    font-family: $font2;
+}
